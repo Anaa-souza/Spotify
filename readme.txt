@@ -8,5 +8,6 @@ Lançamentos recentes e sugestões musicais
 
 Este projeto é apenas para fins educacionais e de demonstração. Não possui afiliação com a marca Spotify. 
 
+
 https://img1.picmix.com/output/stamp/normal/5/2/8/1/1791825_07d9b.gif
 
