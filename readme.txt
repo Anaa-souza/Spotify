@@ -8,6 +8,9 @@ Lançamentos recentes e sugestões musicais
 
 Este projeto é apenas para fins educacionais e de demonstração. Não possui afiliação com a marca Spotify. 
 
+<img src="https://media.tenor.com/HdS2y0Jc6TUAAAAM/kitty.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 265px; margin: 0px; width: 220px;" alt="Escuchando Musica GIF – Hello Kitty Music DJ – discover and share GIFs" jsname="kn3ccd"> 
+
+
 
 
 
