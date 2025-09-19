@@ -1,13 +1,24 @@
 
-Este projeto contém um mockup em PDF que representa a tela de login e uma prévia da página inicial do Spotify, incluindo:
+🎵 Projeto de Mockup – Spotify (Educacional)
 
-Tela de login com campos de email e senha
+Este projeto contém um mockup em PDF que representa:
+
+Tela de login com campos de e-mail e senha
+
+Prévia da página inicial, incluindo:
 
 Destaques de músicas, álbuns e podcasts
 
-Lançamentos recentes e sugestões musicais
+Lançamentos recentes
 
-Este projeto é apenas para fins educacionais e de demonstração. Não possui afiliação com a marca Spotify. 
+Sugestões musicais 
+
+
+
+📌 Objetivo
+
+Este projeto foi desenvolvido apenas para fins educacionais e de demonstração.
+Não possui qualquer vínculo, parceria ou afiliação com a marca Spotify.
 
 
 
